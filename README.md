@@ -3,7 +3,7 @@
 
 ## Description
 
-
+The is allowa the user to write code with or without an internet connection. So the next time you sove a problem in your head and theres no internet service. This app is very handy.
 
 
 ## Table of Contents
@@ -28,7 +28,7 @@ To use this application all you have to do is navigate to the website and start 
 
 ## Roadmap
 
-Down the road, I would like to add 
+Down the road, I would like to add more styling to thi page.
 
 
 ## Contributing
